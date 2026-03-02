@@ -1,15 +1,15 @@
-# Hi, I'm Luan! 👋
+# Oi ,eu sou o Luan! 👋
 
-🚀 I am a **Software Engineering Apprentice** and a **Systems Analysis and Development student** at Universidade Positivo (Curitiba)
-🇧🇷 Brazil
+🚀 Sou Aprendiz de Engenharia de Software e estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo (Curitiba)
+🇧🇷 Brasil
 
-**Currently, my focus is on Web Development.**
+**Atualmente, meu foco é em Desenvolvimento Web.**
 
-**I also explore how Artificial Intelligence can optimize processes and create new products.**
+**Também exploro como a Inteligência Artificial pode otimizar processos e criar novos produtos.**
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar:
 
 <p align="left">
   <a href="https://github.com/LuanNeuwirthC">
@@ -25,21 +25,19 @@
 
 ---
 
-## 🧠 What I do
+## 🧠 O que eu faço
 
--   🎨 **Frontend Engineering:** Experience with Design Systems and components (Angular/React).
--   🤖 **AI & Automation:** Using AI for productivity and task automation.
--   🧩 **Clean Code & Architecture:** 
+-   🎨 **Frontend:** Experiência com Design Systems e componentes em Angular.
+-   🤖 **AI:** Uso de IA para produtividade
+-   🧩 **Clean Code & Arquitetura:** 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 ### Frontend
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -68,12 +66,12 @@
 
 ---
 
-## 🚀 Philosophy
+## 🚀 Minha Filosofia
 
 > _"Don't stop when you're tired. Stop when you're done."_  
 > — **David Goggins**
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+⭐ Se você gosta do meu trabalho, considere dar uma estrela em um repositório
+🤝 Sempre aberto a colaborações, parcerias e ideias legais
