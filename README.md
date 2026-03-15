@@ -64,6 +64,8 @@
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuanNeuwirthC&theme=tokyonight" alt="Resumo do Perfil" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanNeuwirthC&layout=compact&show_icons=true&theme=github_dark)](https://github.com/LuanNeuwirthC)
+
 ---
 
 ## 🚀 Minha Filosofia
