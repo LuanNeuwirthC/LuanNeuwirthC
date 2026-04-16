@@ -1,6 +1,6 @@
 # Oi, eu sou o Luan! 👋
 
-🚀 Sou Aprendiz de Engenharia de Software e estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo (Curitiba)
+🚀 Sou Desenvolvedor de software e estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo (Curitiba)
 🇧🇷 Brasil
 
 **Atualmente, meu foco é em Desenvolvimento Web.**
