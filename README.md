@@ -1,6 +1,13 @@
-# Oi, eu sou o Luan! 👋
+  <img
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWN1bnMyajdueWw0b2xoMW9vODFwYTIza3NtcjYzdzJhYWZ2bnFqdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Zd8PWjBCHCIAo/giphy.gif"
+    width="98"
+    align="right"
+  />
+<h1>
+  Olá, Eu sou o Luan <sub><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanU2bXNzMzhvZGhta3lhOWI5MGVodnFzMXdrOTE2M2FhMmFvOXF2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40"></sub>
+</h1>
 
-Sou Desenvolvedor de software e estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo (Curitiba)
+Sou Desenvolvedor de Software e estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo (Curitiba)
 🇧🇷 Brasil
 
 **Atualmente, meu foco é em Desenvolvimento Web.**
@@ -64,7 +71,7 @@ Sou Desenvolvedor de software e estudante de Análise e Desenvolvimento de Siste
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuanNeuwirthC&theme=tokyonight" alt="Resumo do Perfil" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanNeuwirthC&layout=compact&show_icons=true&theme=github_dark)](https://github.com/LuanNeuwirthC)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -75,6 +82,11 @@ Sou Desenvolvedor de software e estudante de Análise e Desenvolvimento de Siste
 
 ---
 
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGN2bHBvbnQ4d2VsMG52Mjh6Z3NsNDcwaGRwbTRlcWtvenl1bDh2NiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KZh5bFSMOqVUlQdbQB/giphy.gif"
+width="100"
+align="right"
+style="vertical-align: 60px;">
 ⭐ Se você gosta do meu trabalho, considere dar uma estrela em um repositório
-
+<br>
 🤝 Sempre aberto a colaborações, parcerias e ideias legais
+
