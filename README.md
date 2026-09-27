@@ -36,7 +36,7 @@ Sou Desenvolvedor de Software e estudante de Análise e Desenvolvimento de Siste
 
 -   🎨 **Frontend:** Experiência com Design Systems e componentes em Angular.
 -   🤖 **AI:** Uso de IA para produtividade
--   🧩 **Clean Code & Arquitetura:** 
+-   🧩 **Clean Code & Arquitetura**
 
 ---
 
@@ -52,7 +52,6 @@ Sou Desenvolvedor de Software e estudante de Análise e Desenvolvimento de Siste
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### DevOps & Tools
 
