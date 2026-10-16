@@ -4,7 +4,7 @@
 </h1>
 Desenvolvedor de software em Curitiba e estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo.
 
-Trabalho com desenvolvimento web, frontend com Angular e TypeScript, e também crio ferramentas e APIs em Python e C#.
+Trabalho com desenvolvimento web, frontend com Angular e TypeScript, e também crio ferramentas e APIs em Python.
 
 ---
 
